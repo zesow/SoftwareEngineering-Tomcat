@@ -26,3 +26,17 @@
 5. JINI, RMI 및 CORBA와 같은 다른 원격 액세스 API를 사용하여 관리 기능에 접근 할 수 있도록 함
 
 ## Quality Attribute Scenario
+
+|  <center>분류</center> |  <center>내용</center>
+|:--------|:--------:|
+|**Requirement-ID** | 이것이 내용입니다.|
+|**Category** | 이것이 내용입니다.|
+|**Concern** | 이것이 내용입니다.|
+|**Source** | 이것이 내용입니다.|
+|**Stimulus** | 이것이 내용입니다.|
+|**Environment** | 이것이 내용입니다.|
+|**Artifacts** | 이것이 내용입니다.|
+|**Response** | 이것이 내용입니다.|
+|**Response Measure** | 이것이 내용입니다.|
+|**Priority** | 이것이 내용입니다.|
+|**Description** | 이것이 내용입니다.|
