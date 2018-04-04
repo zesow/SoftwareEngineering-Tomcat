@@ -28,7 +28,7 @@
 ## Quality Attribute Scenario
 
 |  <center>분류</center> |  <center>내용</center>
-|:--------|:--------:|
+|:--------:|:--------:|
 |**Requirement-ID** | QA_01|
 |**Category** | 이것이 내용입니다.|
 |**Concern** | 이것이 내용입니다.|
@@ -42,7 +42,7 @@
 |**Description** | 이것이 내용입니다.|
 
 |  <center>분류</center> |  <center>내용</center>
-|:--------|:--------:|
+|:--------:|:--------:|
 |**Requirement-ID** | QA_02|
 |**Category** | 이것이 내용입니다.|
 |**Concern** | 이것이 내용입니다.|
