@@ -32,7 +32,7 @@
 |**Requirement-ID** | QA_01|
 |**Category** | Usability |
 |**Concern** | 최신 코드 반영|
-|**Source** | 시스템|
+|**Source** | 시스템 |
 |**Stimulus** | 소스 코드 변경|
 |**Environment** | 소스 코드 변경|
 |**Artifacts** | 시스템 |
@@ -45,14 +45,14 @@
 |:--------:|:--------|
 |**Requirement-ID** | QA_02|
 |**Category** | Scalability |
-|**Concern** | 이것이 내용입니다.|
-|**Source** | 이것이 내용입니다.|
-|**Stimulus** | 이것이 내용입니다.|
-|**Environment** | 이것이 내용입니다.|
-|**Artifacts** | 이것이 내용입니다.|
-|**Response** | 이것이 내용입니다.|
+|**Concern** | 사용자 증가 |
+|**Source** | 시스템 |
+|**Stimulus** | 접속자의 갑작스런 증가 |
+|**Environment** | 서버 과부화 위험 |
+|**Artifacts** | 시스템 |
+|**Response** | 사용자 분산 |
 |**Response Measure** | 이것이 내용입니다.|
-|**Priority** | |
+|**Priority** | 1 |
 |**Description** | 톰캣은 클러스터링과 로드 벨런싱 기능을 기본 설치 패키지에 포함시킴으로서 유연한 확장을 가능하게 함.|
 * 출처 : http://mindseye.tistory.com/71
 
