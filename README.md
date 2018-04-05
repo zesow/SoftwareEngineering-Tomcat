@@ -54,3 +54,9 @@
 |**Response Measure** | 이것이 내용입니다.|
 |**Priority** | 이것이 내용입니다.|
 |**Description** | 이것이 내용입니다.|
+
+## Quality Attribute Utility Tree
+|  <center>속성</center> |  <center>우려</center> |   <center>시나리오</center> |  <center>(I,R)</center> |  <center>우선순위</center> |
+|:--------:|:--------:|:--------:|:--------:|:--------:|
+|**Description** | 이것이 내용입니다.| 이것이 내용입니다.| 이것이 내용입니다.| 이것이 내용입니다.|
+|**Description** | 이것이 내용입니다.| 이것이 내용입니다.| 이것이 내용입니다.| 이것이 내용입니다.|
