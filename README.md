@@ -42,7 +42,7 @@
 |**Description** | 주기적으로 코드를 감시하는 도중 코드 변경 시 자동으로 재시작하여 시스템을 최신으로 유지한다. |
 
 |  <center>분류</center> |  <center>내용</center>
-|:--------:|:--------:|
+|:--------:|:--------|
 |**Requirement-ID** | QA_02|
 |**Category** | Robustness |
 |**Concern** | 이것이 내용입니다.|
@@ -56,7 +56,7 @@
 |**Description** | 동시접속자.|
 
 |  <center>분류</center> |  <center>내용</center>
-|:--------:|:--------:|
+|:--------:|:--------|
 |**Requirement-ID** | QA_03|
 |**Category** | Security|
 |**Concern** | 이것이 내용입니다.|
