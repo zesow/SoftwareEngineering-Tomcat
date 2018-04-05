@@ -54,7 +54,7 @@
 |**Response Measure** | ?? |
 |**Priority** | 1 |
 |**Description** | 톰캣은 클러스터링과 로드 벨런싱 기능을 기본 설치 패키지에 포함시킴으로서 유연한 확장을 가능하게 한다.|
-http://mindseye.tistory.com/71
+ * 참고 : http://mindseye.tistory.com/71
 
 |  <center>분류</center> |  <center>내용</center>
 |:--------:|:--------|
