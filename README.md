@@ -51,25 +51,24 @@
 |**Environment** | 서버 과부화 위험 |
 |**Artifacts** | 시스템 |
 |**Response** | 사용자 분산 |
-|**Response Measure** | 이것이 내용입니다.|
+|**Response Measure** | ?? |
 |**Priority** | 1 |
 |**Description** | 톰캣은 클러스터링과 로드 벨런싱 기능을 기본 설치 패키지에 포함시킴으로서 유연한 확장을 가능하게 함.|
-* 출처 : http://mindseye.tistory.com/71
+* 참조 : http://mindseye.tistory.com/71
 
 |  <center>분류</center> |  <center>내용</center>
 |:--------:|:--------|
 |**Requirement-ID** | QA_03|
 |**Category** | Portability|
 |**Concern** | 이것이 내용입니다.|
-|**Source** | 이것이 내용입니다.|
-|**Stimulus** | 이것이 내용입니다.|
-|**Environment** | 이것이 내용입니다.|
-|**Artifacts** | 이것이 내용입니다.|
-|**Response** | 이것이 내용입니다.|
-|**Response Measure** | 이것이 내용입니다.|
-|**Priority** | 이것이 내용입니다.|
-|**Description** | Apache Portable Runtime(APR) 이라는 네이티브 라이브러리를 제공함으로서 OS에 관련 없이 공용 라이브러리를 사용하여 개발이 가능함.|
-* 출처 : https://m.blog.naver.com/PostView.nhn?blogId=skdh88&logNo=110146136759&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+|**Source** | 개발자 |
+|**Stimulus** | 다른 운영체제에 이식.|
+|**Environment** | 다른 운영체제에 이식.|
+|**Artifacts** | 시스템.|
+|**Response** | ?? |
+|**Response Measure** | ?? |
+|**Priority** | 2 |
+|**Description** | 톰캣은 리눅스, 유닉스, BSD, 윈도우즈 등 다양한 플랫폼에서 사용이 가능하다.|
 
 ## Quality Attribute Utility Tree
 |  <center>속성</center> |  <center>우려</center> |   <center>시나리오</center> |  <center>(I,R)</center> |  <center>우선순위</center> |
