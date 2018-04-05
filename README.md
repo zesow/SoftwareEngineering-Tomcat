@@ -8,7 +8,7 @@
 
 ## Constraint
 - Business Constraints
-  - 다른 유료DB와 달리 기술 지원을 받을 수 없다.
+  - 다른 유료DB와 달리 기술 지원을 받을 수 없다.
   
 - Technical Constraints
   - Java만 인식 가능하므로 php 등 다른 언어는 apache에서 해당 엔진을 호출하여 상호 보완적 동작을 수행하도록 한다.
