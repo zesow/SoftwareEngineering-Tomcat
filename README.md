@@ -31,7 +31,7 @@
 |:--------:|:--------|
 |**Requirement-ID** | QA_01|
 |**Category** | Usability |
-|**Concern** | 최신 코드 반영|
+|**Concern** | 최신 코드 미반영|
 |**Source** | 시스템 |
 |**Stimulus** | 소스 코드 변경|
 |**Environment** | 소스 코드 변경|
@@ -54,12 +54,13 @@
 |**Response Measure** | ?? |
 |**Priority** | 1 |
 |**Description** | 톰캣은 클러스터링과 로드 벨런싱 기능을 기본 설치 패키지에 포함시킴으로서 유연한 확장을 가능하게 한다.|
+http://mindseye.tistory.com/71
 
 |  <center>분류</center> |  <center>내용</center>
 |:--------:|:--------|
 |**Requirement-ID** | QA_03|
 |**Category** | Portability|
-|**Concern** | 이것이 내용입니다.|
+|**Concern** | 운영체제별 재개발?|
 |**Source** | 개발자 |
 |**Stimulus** | 다른 운영체제에 이식.|
 |**Environment** | 다른 운영체제에 이식.|
@@ -72,6 +73,6 @@
 ## Quality Attribute Utility Tree
 |  <center>속성</center> |  <center>우려</center> |   <center>시나리오</center> |  <center>(I,R)</center> |  <center>우선순위</center> |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-|**Usability** | 이것이 내용입니다.| 주기적으로 코드를 감시하는 도중 코드 변경 시 자동으로 재시작하여 시스템을 최신으로 유지한다.| 이것이 내용입니다.| 3|
-|**Scalability** | 이것이 내용입니다.| 톰캣은 클러스터링과 로드 벨런싱 기능을 기본 설치 패키지에 포함시킴으로서 유연한 확장을 가능하게 한다.| 이것이 내용입니다.| 1|
-|**Portability** | 이것이 내용입니다.| 톰캣은 리눅스, 유닉스, BSD, 윈도우즈 등 다양한 플랫폼에서 사용이 가능하다.| 이것이 내용입니다.| 2|
+|**Usability** | 최신 코드 미반영| 주기적으로 코드를 감시하는 도중 코드 변경 시 자동으로 재시작하여 시스템을 최신으로 유지한다.| ? | 3|
+|**Scalability** | 사용자 증가 | 톰캣은 클러스터링과 로드 벨런싱 기능을 기본 설치 패키지에 포함시킴으로서 유연한 확장을 가능하게 한다.| ? | 1|
+|**Portability** | 운영체제별 재개발?| 톰캣은 리눅스, 유닉스, BSD, 윈도우즈 등 다양한 플랫폼에서 사용이 가능하다.| ? | 2|
