@@ -30,16 +30,16 @@
 |  <center>분류</center> |  <center>내용</center>
 |:--------:|:--------:|
 |**Requirement-ID** | QA_01|
-|**Category** | 이것이 내용입니다.|
-|**Concern** | 이것이 내용입니다.|
-|**Source** | 이것이 내용입니다.|
-|**Stimulus** | 이것이 내용입니다.|
-|**Environment** | 이것이 내용입니다.|
-|**Artifacts** | 이것이 내용입니다.|
-|**Response** | 이것이 내용입니다.|
-|**Response Measure** | 이것이 내용입니다.|
-|**Priority** | 이것이 내용입니다.|
-|**Description** | 이것이 내용입니다.|
+|**Category** | avalibility|
+|**Concern** | 최신 코드 반영|
+|**Source** | 시스템|
+|**Stimulus** | 소스 코드 변경|
+|**Environment** | 소스 코|
+|**Artifacts** | 시스템 |
+|**Response** | 톰캣 재부팅.|
+|**Response Measure** | 10초마다 변경 사항 감지.|
+|**Priority** | 3 |
+|**Description** | 주기적으로 코드를 감시하는 도중 코드 변경 시 자동으로 재시작하여 시스템을 최신으로 유지한다. |
 
 |  <center>분류</center> |  <center>내용</center>
 |:--------:|:--------:|
@@ -53,7 +53,21 @@
 |**Response** | 이것이 내용입니다.|
 |**Response Measure** | 이것이 내용입니다.|
 |**Priority** | 이것이 내용입니다.|
-|**Description** | 이것이 내용입니다.|
+|**Description** | 동시접속자.|
+
+|  <center>분류</center> |  <center>내용</center>
+|:--------:|:--------:|
+|**Requirement-ID** | QA_02|
+|**Category** | 이것이 내용입니다.|
+|**Concern** | 이것이 내용입니다.|
+|**Source** | 이것이 내용입니다.|
+|**Stimulus** | 이것이 내용입니다.|
+|**Environment** | 이것이 내용입니다.|
+|**Artifacts** | 이것이 내용입니다.|
+|**Response** | 이것이 내용입니다.|
+|**Response Measure** | 이것이 내용입니다.|
+|**Priority** | 이것이 내용입니다.|
+|**Description** | 주기적인 백업 발생.|
 
 ## Quality Attribute Utility Tree
 |  <center>속성</center> |  <center>우려</center> |   <center>시나리오</center> |  <center>(I,R)</center> |  <center>우선순위</center> |
