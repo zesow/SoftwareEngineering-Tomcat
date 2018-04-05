@@ -28,13 +28,13 @@
 ## Quality Attribute Scenario
 
 |  <center>분류</center> |  <center>내용</center>
-|:--------:|:--------:|
+|:--------:|:--------|
 |**Requirement-ID** | QA_01|
 |**Category** | avalibility|
 |**Concern** | 최신 코드 반영|
 |**Source** | 시스템|
 |**Stimulus** | 소스 코드 변경|
-|**Environment** | 소스 코|
+|**Environment** | 소스 코드 변경|
 |**Artifacts** | 시스템 |
 |**Response** | 톰캣 재부팅.|
 |**Response Measure** | 10초마다 변경 사항 감지.|
