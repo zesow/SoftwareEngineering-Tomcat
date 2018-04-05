@@ -67,7 +67,7 @@
 |**Response** | 이것이 내용입니다.|
 |**Response Measure** | 이것이 내용입니다.|
 |**Priority** | 이것이 내용입니다.|
-|**Description** | Apache Portable Runtime(APR) 이라는 네이티브 라이브러리를 OS에 관계없이 제공함으로서 OS에 관련 없이 공용 라이브러리를 사용하여 개발이 가능함.|
+|**Description** | Apache Portable Runtime(APR) 이라는 네이티브 라이브러리를 제공함으로서 OS에 관련 없이 공용 라이브러리를 사용하여 개발이 가능함.|
 
 ## Quality Attribute Utility Tree
 |  <center>속성</center> |  <center>우려</center> |   <center>시나리오</center> |  <center>(I,R)</center> |  <center>우선순위</center> |
