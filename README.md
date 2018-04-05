@@ -30,7 +30,7 @@
 |  <center>분류</center> |  <center>내용</center>
 |:--------:|:--------|
 |**Requirement-ID** | QA_01|
-|**Category** | Maintainability |
+|**Category** | Usability |
 |**Concern** | 최신 코드 반영|
 |**Source** | 시스템|
 |**Stimulus** | 소스 코드 변경|
@@ -44,7 +44,7 @@
 |  <center>분류</center> |  <center>내용</center>
 |:--------:|:--------|
 |**Requirement-ID** | QA_02|
-|**Category** | Robustness |
+|**Category** | Scalability |
 |**Concern** | 이것이 내용입니다.|
 |**Source** | 이것이 내용입니다.|
 |**Stimulus** | 이것이 내용입니다.|
@@ -52,7 +52,7 @@
 |**Artifacts** | 이것이 내용입니다.|
 |**Response** | 이것이 내용입니다.|
 |**Response Measure** | 이것이 내용입니다.|
-|**Priority** | 이것이 내용입니다.|
+|**Priority** | 톰캣은 클러스터링과 로드 벨런싱 기능을 기본 설치 패키지에 포함시킴으로서 유연한 확장을 가능하게 함.|
 |**Description** | 동시접속자.|
 
 |  <center>분류</center> |  <center>내용</center>
