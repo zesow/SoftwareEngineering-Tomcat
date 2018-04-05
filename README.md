@@ -30,7 +30,7 @@
 |  <center>분류</center> |  <center>내용</center>
 |:--------:|:--------|
 |**Requirement-ID** | QA_01|
-|**Category** | avalibility|
+|**Category** | Maintainability |
 |**Concern** | 최신 코드 반영|
 |**Source** | 시스템|
 |**Stimulus** | 소스 코드 변경|
@@ -44,7 +44,7 @@
 |  <center>분류</center> |  <center>내용</center>
 |:--------:|:--------:|
 |**Requirement-ID** | QA_02|
-|**Category** | 이것이 내용입니다.|
+|**Category** | Robustness |
 |**Concern** | 이것이 내용입니다.|
 |**Source** | 이것이 내용입니다.|
 |**Stimulus** | 이것이 내용입니다.|
@@ -57,8 +57,8 @@
 
 |  <center>분류</center> |  <center>내용</center>
 |:--------:|:--------:|
-|**Requirement-ID** | QA_02|
-|**Category** | 이것이 내용입니다.|
+|**Requirement-ID** | QA_03|
+|**Category** | Security|
 |**Concern** | 이것이 내용입니다.|
 |**Source** | 이것이 내용입니다.|
 |**Stimulus** | 이것이 내용입니다.|
@@ -67,7 +67,7 @@
 |**Response** | 이것이 내용입니다.|
 |**Response Measure** | 이것이 내용입니다.|
 |**Priority** | 이것이 내용입니다.|
-|**Description** | 주기적인 백업 발생.|
+|**Description** | 톰캣.|
 
 ## Quality Attribute Utility Tree
 |  <center>속성</center> |  <center>우려</center> |   <center>시나리오</center> |  <center>(I,R)</center> |  <center>우선순위</center> |
